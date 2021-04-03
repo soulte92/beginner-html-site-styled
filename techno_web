@@ -1,0 +1,95 @@
+<!doctype html>
+
+<html>
+ 	<head>
+  		<meta charset="utf-8" />
+    	<title> Documentation utile pour Dévelppeur </title>
+  	</head>
+  
+  	<body>
+		<header>
+			<h1> Accueil </h1>
+		</header>
+		
+		<nav>
+			<h2> Sommaire </h2>
+			<ul>
+				<li> Présentation de langage de programmation </li>
+				<li> Langage C </li>
+				<li> Langage Java </li>
+				<li> Langage Python </li>
+				<li> Langage Html5 & CSS3 </li>
+			</ul>
+		</nav>
+		
+		<section>
+			<header>
+				<h2> Présentation de langage de programmation </h2>
+			</header>
+						
+			<article>
+				<h3> Définition </h3>
+				
+				<p>
+					Un langage de programmation est un code de communication, permettant à un être humain de dialoguer avec une machine en lui soumettant des instructions et en analysant les données matérielles fournies par le système, généralement un ordinateur. Le langage permet à la personne qui rédige un programme, de faire abstraction de certains mécanismes internes, généralement des activations et désactivations de commutateurs électroniques, qui aboutissent au résultat désiré.
+					D'une manière similaire à une langue naturelle, un langage de programmation est composé d'un alphabet, d'un vocabulaire, de règles de grammaire, de significations, mais aussi d'un environnement de traduction censé rendre sa syntaxe compréhensible par la machine1,2.
+				</p>
+				
+				<p>
+					Les langages de programmation permettent de décrire d'une part les structures des données qui seront manipulées par l'appareil informatique, et d'autre part d'indiquer comment sont effectuées les manipulations, selon quels algorithmes. Ils servent de moyens de communication par lesquels le programmeur communique avec l'ordinateur, mais aussi avec d'autres programmeurs ; les programmes étant d'ordinaire écrits, lus, compris et modifiés par une équipe de programmeurs3.
+				</p>
+				
+				<p>
+					Un langage de programmation est mis en œuvre par un traducteur automatique : compilateur ou interprète. Un compilateur est un programme informatique qui transforme dans un premier temps un code source écrit dans un langage de programmation donné en un code cible qui pourra être directement exécuté par un ordinateur, à savoir un programme en langage machine ou en code intermédiaire2, tandis que l’interprète réalise cette traduction « à la volée ».
+				</p>
+				
+				<p>
+					Les langages de programmation offrent différentes possibilités d'abstraction et une notation proche de l'algèbre, permettant de décrire de manière concise et facile à saisir les opérations de manipulation de données et l'évolution du déroulement du programme en fonction des situations. La possibilité d'écriture abstraite libère l'esprit du programmeur d'un travail superflu, notamment de prise en compte des spécificités du matériel informatique, et lui permet ainsi de se concentrer sur des problèmes plus avancés2. 		
+				</p>
+			</article>
+		
+			<article>
+				<h3> Historique </h3>
+				
+				<p class="maRedaction">
+					
+					Les premiers langages des programmation ont apparu vers les années 1950, de l'élaboration de l'algorithme jusqu'à l'implémentation. De nos jours, il existe de plus en plus des langages des  plusieurs de langages de programmations. 
+					
+					</br>On pourra trouver une bref histoire de l'évolution des langages de programmation 
+					<a href=" https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjb-KegztfvAhX6BGMBHYyeDIUQFjAHegQICxAD&url=http%3A%2F%2Fprojet.eu.org%2Fpedago%2Fsin%2FICN%2F1ere%2F4-langages.pdf&usg=AOvVaw3x6OKwM1cQkapdwaMBLP2i" target="_new">Ici.</a> 
+			
+					et  la chronologie des langages de programmation, 
+					<a href="https://fr.wikipedia.org/wiki/Chronologie_des_langages_de_programmation" target="_new">Ici.</a>
+				</p>
+			</article>
+	
+			<article>
+				<h3>Type de langage de programmation</h3>
+				
+				<p>
+					
+				</p>
+			
+			</article>
+				
+			<footer> 
+				Sources: 
+				</br> <a href="https://www.techno-science.net/definition/11378.html" target="_new">Techno-Science.net</a>
+				</br> <a href="https://fr.wikipedia.org/wiki/Langage_de_programmation" target="new">Wikipédia</a>
+			</footer>
+		</section>
+	
+		<nav>
+			<ul>
+				<!- On pourra utiliser cela pour chaque langage -->
+				<li> Introduction </li> 
+				<li> Historique </li>
+				<li> Utilisation </li>
+				<li> Code syntaxique </li>
+				<li> Source </li>
+			</ul>
+		</nav>
+    je peux mettre tout ce que je veux!
+  	</body>
+  
+</html>
